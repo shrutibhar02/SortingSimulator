@@ -2,4 +2,4 @@
 
 **A static website for visualizing different comparison based sorting algorithms.**
 
-[Website Link](https://kartikaye07.github.io/SortSimulator/Sorting%20Simulator/)
+[Website Link](https://shrutibhar02.github.io/SortingSimulator/)
